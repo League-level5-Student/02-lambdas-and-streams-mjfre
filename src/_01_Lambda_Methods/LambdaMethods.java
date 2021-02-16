@@ -19,7 +19,7 @@ public class LambdaMethods {
 		//4. Call the printCustonMessage method using a lambda so that the String prints with a period in between each character.
 		
 		//5. Call the printCustonMessage method using a lambda so that the String prints without any vowels.
-	//i'm making another anotherasdfasasdfasdf change
+	//i'm making another anotherasdfasasdfasdfasdfasdf change
 	}
 	
 	public static void printCustomMessage(SpecialPrinter sp, String value) {
